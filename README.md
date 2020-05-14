@@ -24,7 +24,7 @@ Your application must meet the following requirements:
 
 #### Itinerary
 
-- When the user navigates to `/myitinerary`, they should see a list itinerary items specific to that user.
+- When the user navigates to `/myitinerary`, they should see a list of itinerary items specific to that user.
 
 - When the user navigates to `/myitinerary/new`, they should be presented with a form that, when submitted, will add a new item to their itinerary.
 
